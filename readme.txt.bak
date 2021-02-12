@@ -1,0 +1,8 @@
+Test file
+First change1
+<<<<<<< HEAD
+Second change2_1
+And more
+=======
+More edits
+>>>>>>> first_edit
